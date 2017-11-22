@@ -1,3 +1,3 @@
-        function CerrarSideNav() {
-            $('button-collapse').sideNav('hide');
-        };
+function CerrarSideNav() {
+    $('button-collapse').sideNav('hide');
+};
